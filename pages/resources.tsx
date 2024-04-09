@@ -1,9 +1,9 @@
-import React from 'react'
+// import React from 'react'
 
-function Resources() {
-  return (
-    <div>Resources</div>
-  )
-}
+// function Resources() {
+//   return (
+//     <div>Resources</div>
+//   )
+// }
 
-export default Resources
+// export default Resources
