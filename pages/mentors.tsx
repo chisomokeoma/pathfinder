@@ -2,11 +2,14 @@ import React from 'react'
 
 function Mentors() {
   return (
-    <main className='flex gap-2 px-[12px] py-[2px] ' >
+    <main className='box-border flex'>
+      <div className='flex justify-center flex-col w-[1080px] h-[1305px] bg-[#ffff]'>
+        <div className='w-[1086px] h-[261px]' ></div>
+        <div className='w-[1086px] h-[261px]'></div>
+      </div>
 
-        <div>Mentors</div>
-        <p className=' text-red-600 bg-slate-600'>CHisom</p>
 
+        
     </main>
   )
 }
